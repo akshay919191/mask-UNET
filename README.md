@@ -19,3 +19,9 @@ solution was combined loss ->
         Maintains fine details at lesion boundaries
         
         Proven track record in medical imaging competitions (ISIC challenges)
+
+
+https://drive.google.com/file/d/193NpUaiwWkcWHJ-QjsDbLQrxaiX1yXZw/view?usp=drive_link 
+
+
+use this link for weigths
